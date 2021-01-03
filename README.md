@@ -12,3 +12,8 @@ Zamierzam się dalej rozwijać w programowaniu, komputerach. Poza tym, mam też 
 - C++
 - Bash
 - MacOS.
+## Co mi się nie podoba w technologiach
+- Windows 10 jest wg mnie dobry dopiero od wydania 2004;
+- Wszystkie bloatware 
+- Nakładki na Androida(tylko czysty Android, sam kiedyś miałem Nexusa 5)
+- Zbyt krótkie współgranie z procesorami Intel 2 gen, jeżeli chodzi o software(ThinkPad x220 r. 2011, bardzo wolno chodził na Win10 1604)
