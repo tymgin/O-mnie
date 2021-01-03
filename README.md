@@ -17,3 +17,7 @@ Zamierzam się dalej rozwijać w programowaniu, komputerach. Poza tym, mam też 
 - Wszystkie bloatware 
 - Nakładki na Androida(tylko czysty Android, sam kiedyś miałem Nexusa 5)
 - Zbyt krótkie współgranie z procesorami Intel 2 gen, jeżeli chodzi o software(ThinkPad x220 r. 2011, bardzo wolno chodził na Win10 1604)
+## Moje przekonania nt. Linuxa(nie jest tak ,,profesorsko napisane jak poprzednie sekcje")
+Otóż uważam, że Ubuntu jest dobre bez tego beznadziejnego Gnome. Jest wersją  Debiana, która lepiej rozumie zależności. Natomiast tworzenie maszyny wirtualnej opartej na Vagrant i VBox zdecydowanie łatwiejsze jest na Ubunciaku. Debian jest świetnym systemem dla osoby, która lubi przetestować różne warianty i wszystko ,,posprawdzać". 
+Arch i systemy oparte na Arch - też ok, ale nie rozumieją zależności, co może denerwować.
+:)
