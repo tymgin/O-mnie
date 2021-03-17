@@ -5,7 +5,7 @@ Komputerami interesuje się od października 2012(bardziej kwestie software-owe)
 ## 2016-2020
 W 2015 roku zacząłem programować w JS(język ten wydaje mi się dosyć prosty), w 2016 natomiast zacząłem programować w C++. Lata 2017-styczeń 2020 to czas, kiedy moje zainteresowania zeszły bardziej na kwestie mobilne i smartfonowe(powróciłem do programowania i hardware pod koniec stycznia 2020). Pomiędzy wrześniem 2018 a lipcem 2019 programowałem w Swift(wówczas na iOS 12, chciałbym się nauczyć SwiftUI) Zaczaąlem się też interesować linux server, i interesować windows server(uważam te technologie za przyszłość w pracy biurowej). 1 wrześnoa 2020 zacząłem współpracować najpierw z ekipą Infinity Developers, następnie z ekipą Boomfinity Dev(oba są botami na Discorda). W październiku 2020 byłem moderatorem w ITHardware.
 ## 2021
-14 grudnia 2020 nawiązałem współpracę z Joshem(91Tech). Dzień później nawiązałem współpracę z recenzentem telefonów o nicku ,,winctech". Wszystkie formy współpracy z tymi ludźmi,  mam nadzieje, będą dalej kontynuowane.
+14 grudnia 2020 nawiązałem współpracę z Joshem(91Tech). Dzień później nawiązałem współpracę z recenzentem telefonów o nicku winctech(William B...) Wszystkie formy współpracy z tymi ludźmi,  mam nadzieje, będą dalej kontynuowane.
 ## Co lubię, jeżeli chodzi o technologie
 - Apple(jestem ich fanem)
 - AMD
